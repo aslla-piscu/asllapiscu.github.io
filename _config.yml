@@ -9,3 +9,5 @@ instagram_username: ssj_horus
 
 # Build settings
 # paginate: 7
+
+theme: jekyll-theme-minimal
