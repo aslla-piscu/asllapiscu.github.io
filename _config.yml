@@ -1,7 +1,9 @@
+theme: jekyll-theme-minimal
+
 # Site settings                    
 title: Secret Garden                            # title
 SEOTitle: 白金燐子の活動記録                        # subtitle
-description: 練習は本番のように、本番は練習のように.    # side common
+#description:                                     # side common
 
 # SNS settings
 github_username: aslla-piscu
@@ -10,4 +12,8 @@ instagram_username: ssj_horus
 # Build settings
 # paginate: 7
 
-theme: jekyll-theme-minimal
+# Sidebar settings
+sidebar: true  #添加侧边栏
+sidebar-about-description: "練習は本番のように、本番は練習のように"
+sidebar-avatar: /Users/moses/Pictures/71397833_p0.png    #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
+
