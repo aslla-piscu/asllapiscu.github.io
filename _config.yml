@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+
+# Site settings                    
+title: Secret Garden                            # title
+SEOTitle: 白金燐子の活動記録                        # subtitle
+description: 練習は本番のように、本番は練習のように.    # side common
+
+# SNS settings
+github_username: aslla-piscu
+instagram_username: ssj_horus
+
+# Build settings
+# paginate: 7
